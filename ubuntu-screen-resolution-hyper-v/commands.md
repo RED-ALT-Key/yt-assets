@@ -1,4 +1,5 @@
 # Fix the Ubuntu Desktop Screen Resolution in Hyper-V
+This fix allows one to set their Ubuntu Desktop VM to the host computer's monitor screen resolution.
 
 ## Edit grup using the Nano text editor
 `sudo nano /etc/default/grub`
